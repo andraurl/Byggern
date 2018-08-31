@@ -1,6 +1,8 @@
-#include "test.h"
 #include <stdio.h>
+
+
+#include "UART_driver.h"
 int main (int argc, char *argv[]) {
-    test();
+
     return 0;
 }
